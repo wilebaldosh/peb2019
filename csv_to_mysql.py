@@ -1,3 +1,12 @@
+__author__ = "Wilebaldo Santana Hernández"
+__copyright__ = "Copyright 2020, Peb2019"
+__credits__ = ["Wilebaldo Santana Hernández"]
+__license__ = "GPL"
+__version__ = "0.1"
+__maintainer__ = "Wilebaldo Santana Hernández"
+__email__ = "wisahe@gmail.com"
+__status__ = "Production"
+
 # Importamos las librerías necesarias para el proyecto
 # Pandas y SqlAlchemy
 import pandas as pd
